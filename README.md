@@ -120,23 +120,54 @@ djangorestframework>=3.12,<4.0
 ## Project Structure
 django-blog-platform/
 │
+
 ├── blog/                  # Main application directory
+
 │   ├── migrations/        # Database migrations
+
 │   ├── static/            # Static files (CSS, JS, images)
+
 │   ├── templates/         # HTML templates
+
 │   ├── admin.py           # Admin panel configuration
+
 │   ├── forms.py           # Form definitions
+
 │   ├── models.py          # Database models
+
 │   ├── urls.py            # URL configurations for the blog app
+
 │   └── views.py           # View functions
+
 │
 ├── django_blog_platform/  # Project configuration directory
+
 │   ├── settings.py        # Project settings
+
 │   ├── urls.py            # Main URL configuration
+
 │   └── wsgi.py            # WSGI configuration for deployment
+
 │
 ├── venv/                  # Virtual environment (not tracked in git)
+
 ├── .gitignore             # Specifies intentionally untracked files to ignore
+
 ├── manage.py              # Django's command-line utility for administrative tasks
+
 ├── README.md              # Project documentation (you are here)
+
 └── requirements.txt       # Project dependencies
+
+## Contact
+Made with ❤️ by Mumtaz Ali | [LinkedIn](https://www.linkedin.com/in/mumtaz-ali) | [GitHub](https://github.com/engrmumtazali0112)
+<div align="center">
+<h3> Connect with me
+</h3> 
+<p align="center">
+    <a href="mailto:engrmumtazali01@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
+    <a href="https://www.linkedin.com/in/mumtazali12/" target="_blank"><img alt="LinkedIn" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"></a>
+    <a href="https://www.instagram.com/its_maliyzi?igsh=MWR1Y2x1a2xpazBpOA==" target="_blank"><img alt="Instagram" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"></a>
+    <a href="https://www.hackerrank.com/profile/engrmumtazali01" target="_blank"><img alt="HackerRank" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg"></a>
+    <a href="https://github.com/engrmumtazali0112" target="_blank"><img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="25px"></a>
+</p>  
